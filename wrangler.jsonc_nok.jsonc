@@ -1,0 +1,8 @@
+{
+    "name": "summer-edition",
+    "compatibility_date": "2025-03-26",
+    "main": "appSTREAMSummerFestival.worker.js",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ]
+}
